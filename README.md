@@ -1,8 +1,9 @@
 # sharp-bug-1
 
-Steps to trigger:
+Steps to reproduce:
 
-- run `node main.js`
+- On Windows, I'm not sure whether this bug exists in other OS.
+- Run `node main.js`
 
 Expected: two image `图片1.avif` and `图片2.avif` are created, and the process successfully exit.
 
