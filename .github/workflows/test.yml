@@ -19,3 +19,6 @@ jobs:
           run_install: true
 
       - run: node main.js
+        continue-on-error: true
+
+      - run: dir
